@@ -9,3 +9,9 @@ Agregamos lineas
 Tengo preferencia por el lenguaje Python
 
 El mejor grupo: Code Titans!!!
+
+Agregamos mas modificaciones
+
+Vamos a descargar los cambios hechos en remoto
+
+Usando git pull
