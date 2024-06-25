@@ -15,3 +15,7 @@ Agregamos mas modificaciones
 Vamos a descargar los cambios hechos en remoto
 
 Usando git pull
+
+Este cambio es para hacer git push
+
+Es un cambio en el repo local y se actualiza en el remoto
